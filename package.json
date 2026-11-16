@@ -1,0 +1,13 @@
+{
+  "name": "zajil-discord-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for private Zajil messages with owner-only settings.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.19.3",
+    "dotenv": "^16.4.7"
+  }
+}
